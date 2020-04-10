@@ -1,0 +1,2 @@
+class ContactFormSubmission < ApplicationRecord
+end
